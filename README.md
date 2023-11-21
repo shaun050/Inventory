@@ -4,8 +4,10 @@
 
 
 Adding equipment 
-<img width="958" alt="image" src="https://github.com/shaun050/not/assets/112769676/62dd4836-8b21-4089-93d3-66f736fb740e">
-<img width="960" alt="image" src="https://github.com/shaun050/not/assets/112769676/79ac63c7-5e3e-4606-87c2-4893215bd6b8">
+<img width="960" alt="image" src="https://github.com/shaun050/inventory/assets/112769676/e9517a7c-e753-4ac9-bda5-83fc7f7d7e0f">
+
+<img width="960" alt="image" src="https://github.com/shaun050/inventory/assets/112769676/57d94d85-c90c-4ddb-9926-f2532c3b45ea">
+
 
 Equipment View
 <img width="960" alt="image" src="https://github.com/shaun050/not/assets/112769676/a8879f1e-ca76-4f82-96d4-a1e62fdb2f2f">
