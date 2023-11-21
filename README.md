@@ -19,6 +19,7 @@ Equipment Delete
 <img width="960" alt="image" src="https://github.com/shaun050/not/assets/112769676/51bcf7d6-2b95-4dd2-9e12-d424555ac85a">
 
 Search
+
 <img width="960" alt="image" src="https://github.com/shaun050/inventory/assets/112769676/55d6b723-6f03-48dd-9169-0e12a61a2e7d">
 
 
